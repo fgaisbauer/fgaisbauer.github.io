@@ -7,10 +7,15 @@ permalink: /publications/
 ## Publications
 
 
+<br>
 
 #### Judgment and Decision Making
 - Neth, H., **Gaisbauer, F.**, Gradwohl, N., & Gaissmaier, W. (2018). *riskyr: A toolbox for rendering risk literacy more transparent.* Social Psychology and Decision Sciences, University of Konstanz, Germany. Computer software (R package version 0.2.0, Dec. 20, 2018). Retrieved from [https://CRAN.r-project.org/package=riskyr](https://CRAN.r-project.org/package=riskyr).
 
+
+<br>
+<hr>
+<br>
 
 #### Evaluation
 - Vorwerk, K., Hartmann, C., **Gaisbauer, F.**, & Krapp, S. (2017). Deutsche Entwicklungszusammenarbeit unter Einbindung der Privatwirtschaft: Evaluierung des develoPPP.de-Programms. *Zeitschrift für Evaluation, 16*(1), 160-172.
@@ -21,6 +26,9 @@ permalink: /publications/
 - **Gaisbauer, F.**, Noltze, M., Schwedersky, T., & Krapp, S. (2014). Dreißig Jahre ruandisch-deutsche Entwicklungszusammenarbeit im Gesundheitssektor: Herausforderungen einer komplexen Evaluierung [Thirty years of Rwandan-German development cooperation in the health sector: Challenges of a complex evaluation]. *Zeitschrift für Evaluation, 17*(2), 332-347.
 - Schwedersky, T., Noltze, M., **Gaisbauer, F.**, & Krapp, S. (2014). *Thirty Years of Rwandan-German Development Cooperation in the Health Sector*. Bonn: German Institute for Development Evaluation (DEval).
 
+<br>
+<hr>
+<br>
 
 #### Political psychology
 - Kopf-Beck, J., **Gaisbauer, F.**, & Dengler, S. (2017). Shame on me? Shame on you! Emotional reactions to cinematic portrayals of the Holocaust. *Journal of Social & Political Psychology, 5*(2), 367-395.
