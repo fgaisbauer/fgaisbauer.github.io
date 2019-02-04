@@ -1,0 +1,13 @@
+---
+layout: inner
+position: left
+title: 'riskyr'
+date: 2019-02-04 16:35:00
+categories: risk, R
+tags: risk R visualisation
+featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+project_link: 'https://github.com/hneth/riskyr'
+button_icon: 'github'
+button_text: 'Visit riskyr'
+lead_text: 'A toolbox for rendering risk literacy more transparent'
+---
