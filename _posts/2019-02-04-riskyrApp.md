@@ -1,8 +1,8 @@
 ---
 layout: inner
 position: right
-title: 'riskyr - The app'
-date: 2016-02-20 14:15:00
+title: 'riskyr - The App'
+date: 2019-02-04 17:15:00
 categories: development
 tags: R shiny
 featured_image: '/img/posts/riskyrapp.png'
