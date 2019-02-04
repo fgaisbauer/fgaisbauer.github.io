@@ -7,7 +7,7 @@ categories: development
 tags: R shiny
 featured_image: '/img/posts/riskyrapp.png'
 project_link: 'https://riskyr.org'
-button_icon: 'github'
+button_icon: 'flask'
 button_text: 'Visit the riskyrApp'
 lead_text: 'An interactive, standalone app that allows using the riskyr toolbox without coding'
 ---
