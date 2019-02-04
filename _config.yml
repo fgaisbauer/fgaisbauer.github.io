@@ -18,9 +18,9 @@ email: 'felix.gaisbauer@uni-konstanz.de'
 description: "My personal homepage (or at least a test version of it)."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fgaisbauer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: 'jamigibbs'
+twitter_username: ''
 github_username: 'fgaisbauer'
-# medium_username: 'blog.jamigibbs.com'
+medium_username: ''
 
 # Build settings
 markdown: kramdown
