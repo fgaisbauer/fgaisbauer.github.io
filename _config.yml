@@ -43,3 +43,4 @@ nav_item:
   - { url: '/evaluation', text: 'Evaluation' }
   - { url: '/publications', text: 'Publications' }
   - { url: '/about', text: 'About' }
+  - { url: '/contact', text: 'Contact' }
