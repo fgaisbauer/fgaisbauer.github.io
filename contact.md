@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Contact
-permalink: /Contact/
+permalink: /contact/
 ---
 
 ## Would you like to get in touch?
