@@ -8,7 +8,6 @@ permalink: /contact/
 
 
 <strong>Felix Gaisbauer</strong>
-
 Ph.D. Candidate
 
 [Social Psychology and Decision Sciences](https://spds.uni-konstanz.de)<br>
