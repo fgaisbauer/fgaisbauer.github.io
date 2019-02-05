@@ -6,7 +6,8 @@ permalink: /contact/
 
 ## Contact
 
-
+<br>
+<br>
 <strong>Felix Gaisbauer</strong><br>
 Ph.D. Candidate
 
