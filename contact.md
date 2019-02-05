@@ -11,12 +11,12 @@ permalink: /contact/
 
 Ph.D. Candidate
 
-[Social Psychology and Decision Sciences](https://spds.uni-kosntanz.de)
-[Graduate School of Decision Sciences](https://gsds.uni-kosntanz.de)
-University of Konstanz, P.O. Box 43
+[Social Psychology and Decision Sciences](https://spds.uni-konstanz.de)<br>
+[Graduate School of Decision Sciences](https://gsds.uni-kosntanz.de)<br>
+University of Konstanz, P.O. Box 43<br>
 D-78457 Konstanz
 
-Office: E 209
-Tel.: +49 7531 88-3225
+Office: E 209<br>
+Tel.: +49 7531 88-3225<br>
 Email: [felix.gaisbauer@uni-konstanz.de](mailto:felix.gaisbauer@uni-konstanz.de)
 
