@@ -43,5 +43,5 @@ permalink: /evaluation/
       </div>
     </main>
 
-{% include footer.html %}
+
 
