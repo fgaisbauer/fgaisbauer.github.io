@@ -5,13 +5,12 @@ permalink: /evaluation/
 ---
 
 
-## Evaluation
-
-
 {% include header.html %}
 
-    <main id="portfolio">
-      <div class="container">
+
+## Evaluation
+
+<div class="container">
         <div class="row">
           <div class="col-md-12">
 
@@ -39,7 +38,6 @@ permalink: /evaluation/
           </div>
         </div>
       </div>
-    </main>
 
-
+ 
 
