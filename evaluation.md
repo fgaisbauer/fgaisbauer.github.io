@@ -1,11 +1,8 @@
 ---
-layout: inner-eval
+layout: inner
 title: Evaluation
 permalink: /evaluation/
 ---
-
-
-
 
 
 ## Evaluation
