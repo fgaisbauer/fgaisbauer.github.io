@@ -22,8 +22,6 @@ permalink: /evaluation/
             <p class="section-subtitle text-center">{{ site.section_subtitle }}</p>
             {% endif %}
 
-            <div class="break"></div>
-
             {% for post in paginator.posts %}
               <div class="wow fadeIn">
               {% if post.position == "left" %}
