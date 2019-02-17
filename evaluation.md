@@ -23,7 +23,7 @@ Here, you can find a list of the projects I've worked on during that time.
 
     <div class="col-xs-12 col-md-6">
     <p>
-        <a href="https://www.developpp.de/en/>develoPPP.de</a>
+        <a href="https://www.developpp.de/en/">develoPPP.de</a>
     </p>
     
     <br>
