@@ -14,7 +14,26 @@ Here, you can find a list of the projects I've worked on during that time.
 
 ### Evaluation of the develoPPP.de program
 
-[develoPPP.de](https://www.developpp.de/en/).
+<div class="content-wrap">
+
+  <div class="row">
+
+    <div class="col-xs-12 col-md-6">
+    
+    [develoPPP.de](https://www.developpp.de/en/).
+    </div>
+
+    <div class="col-xs-12 col-md-6">
+      <img class="img-responsive" src="Test Image" title="Test Title">
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
 
 
 
