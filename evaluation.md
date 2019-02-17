@@ -24,6 +24,7 @@ Here, you can find a list of the projects I've worked on during that time.
     <div class="col-xs-12 col-md-6">
     <a href="https://www.developpp.de/en/>develoPPP.de</a>
 
+    <br>
 
     Related publications: 
     
@@ -50,6 +51,11 @@ Here, you can find a list of the projects I've worked on during that time.
   </div>
 
 </div>
+
+
+<br>
+<hr>
+<br>
 
 
 
