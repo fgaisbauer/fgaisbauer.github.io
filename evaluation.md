@@ -11,6 +11,9 @@ Before starting my PhD, I have worked four years (2012 - 2016) with the [German 
 
 Here, you can find a list of the projects I've worked on during that time.
 
+<br>
+<hr>
+<br>
 
 ### Evaluation of the develoPPP.de program
 
@@ -21,6 +24,25 @@ Here, you can find a list of the projects I've worked on during that time.
     <div class="col-xs-12 col-md-6">
     
     [develoPPP.de](https://www.developpp.de/en/).
+    
+    Related publications: 
+    
+    <ul>
+       <li><strong>Evaluation report in English:</strong> Hartmann, C., <strong>Gaisbauer, F.</strong>, & Vorwerk, K. (2017). 
+            <i>Evaluation of the develoPPP.de programme</i>. Bonn: German Institute for Development Evaluation (DEval). 
+            <a href="https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/DEval_develoPPP_Bericht_EN_web_final.pdf">[Find the report at Deval.org]</a>
+
+      </li>
+     <li><strong>Evaluation report in German:</strong> Hartmann, C., strong>Gaisbauer, F.</strong>, & Vorwerk, K. (2017). <i>Evaluierung des develoPPP.de-Programms</i>. Bonn: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit (DEval).  
+<a href="https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/DEval_develoPPP_Bericht_DE_barrierefrei.pdf">[Find the report at Deval.org]</a>
+</li>
+     <li> Hartmann, C., <strong>Gaisbauer, F.</strong>, & Vorwerk, K. (2017). <i>Evaluierung des develoPPP.de-Programms</i>. Bonn: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit (DEval).
+     </li>
+    </ul>
+
+
+    
+    
     </div>
 
     <div class="col-xs-12 col-md-6">
@@ -37,16 +59,8 @@ Here, you can find a list of the projects I've worked on during that time.
 
 
 
-Related publications: 
-
-- **Evaluation report in English:** Hartmann, C., **Gaisbauer, F.**, & Vorwerk, K. (2017). *Evaluation of the develoPPP.de programme*. Bonn: German Institute for Development Evaluation (DEval). [Find the report at Deval.org](https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/DEval_develoPPP_Bericht_EN_web_final.pdf)
-
-- **Evaluation report in German:** Hartmann, C., **Gaisbauer, F.**, & Vorwerk, K. (2017). *Evaluierung des develoPPP.de-Programms*. Bonn: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit (DEval). [Find the report at Deval.org](https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/DEval_develoPPP_Bericht_DE_barrierefrei.pdf)
-
-- Hartmann, C., **Gaisbauer, F.**, & Vorwerk, K. (2017). *Evaluierung des develoPPP.de-Programms*. Bonn: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit (DEval).
 
 
 
-<br>
-<hr>
-<br>
+
+
