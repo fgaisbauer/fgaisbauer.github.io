@@ -34,5 +34,5 @@ permalink: /publications/
 - Kopf-Beck, J., **Gaisbauer, F.**, & Dengler, S. (2017). Shame on me? Shame on you! Emotional reactions to cinematic portrayals of the Holocaust. *Journal of Social & Political Psychology, 5*(2), 367-395.
 - **Gaisbauer, F.** (2014). Representations of victimization and responsibility during the Second Intifada and the Gaza War in German quality newspapers. In W. Kempf & D. Shinar (Eds.), *The Israeli-Palestinian conflict: War coverage and peace journalism* (pp. 188-222). Berlin: Irena Regener.
 - Kopf-Beck, J., **Gaisbauer, F.**, & Dengler, S. (2013). Engaging with German history: Reactions of the third post-war generation to cinematic representations of the Holocaust. *conflict & communication online, 12*(1).
-- **Gaisbauer, F.** (2012). Representations of victimization and responsibility during the Second Intifada and the Gaza War in German quality newspapers. conflict & communication online, 11(2).  
+- **Gaisbauer, F.** (2012). Representations of victimization and responsibility during the Second Intifada and the Gaza War in German quality newspapers. *conflict & communication online, 11*(2).  
 - **Gaisbauer, F.** (2011). Influencing Factors for the Reintegration of Ex-Combatants in Rwanda. University of Konstanz [*unpublished thesis*].
