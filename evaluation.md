@@ -108,7 +108,7 @@ Here, you can find a list of the projects I've worked on during that time.
     <p>
         
         Upon mutual agreement, Germany has terminated its engagement in the Rwandan health sector after 30 years. 
-        Read the evaluation report to learn more about the problems and progress of this cooperation---and how sectoral 
+        Read the evaluation report to learn more about the problems and progress of this cooperation&#8212;and how sectoral 
         bilateral development cooperation has changed over three decades.
        
     </p>
