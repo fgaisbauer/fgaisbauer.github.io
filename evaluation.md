@@ -49,7 +49,7 @@ Here, you can find a list of the projects I've worked on during that time.
     </div>
 
     <div class="col-xs-12 col-md-6">
-      <img class="img-responsive" src="/img/develoPPP.PNG" title="Front page develoPPP.de evaluation">
+      <img class="img-responsive" src="/img/develoPPP.png" title="Front page develoPPP.de evaluation">
     </div>
 
   </div>
@@ -92,18 +92,29 @@ Here, you can find a list of the projects I've worked on during that time.
   <div class="row">
 
     <div class="col-xs-12 col-md-6">
-        
+    
+    <p>
         Rwanda has earned a solid reputation for being a "top performer" on many development indicators, 
         but also still bears the legacy of the 1994 genocide.
+    </p>
+        
+
+    <p>
         
         Upon mutual agreement, Germany has terminated its engagement in the Rwandan health sector after 30 years. 
-        Read the evaluation report to learn more about the problems and progress of this cooperation and how sectoral 
+        Read the evaluation report to learn more about the problems and progress of this cooperation---and how sectoral 
         bilateral development cooperation has changed over three decades.
+       
+    </p>
+    
+        <br>
+
+    Related publications: 
         
       <ul>
          <li><strong>Evaluation report in English:</strong><br> 
               Schwedersky, T., Noltze, M., <strong>Gaisbauer, F.</strong>, & Krapp, S. (2014). 
-              <i>Thirty Years of Rwandan-German Development  Cooperation in the Health Sector</i>. 
+              <i>Thirty Years of Rwandan-German Development  Cooperation in the Health Sector</i>. <br>
               Bonn: German Institute for Development Evaluation (DEval). 
               <a href="https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/Rwanda-Report_Vol-1_2014_en.pdf">
               [Find the report at Deval.org]</a>
