@@ -23,7 +23,7 @@ Here, you can find a list of the projects I've worked on during that time.
 
     <div class="col-xs-12 col-md-6">
     <p>
-        The <a href="https://www.developpp.de/en/">develoPPP.de</a> programmes aims at bringing together experts on development from the public sector and entrepreneurs interested in developing countries from the private sector to create public-private partnerships (PPPs) that create both a social or ecological value added in the partner country and are economically viable at the same time.
+        The <a href="https://www.developpp.de/en/">develoPPP.de</a> programme aims at bringing together experts on development from the public sector and entrepreneurs interested in developing countries from the private sector to create public-private partnerships (PPPs) that create both a social or ecological value added in the partner country and are economically viable at the same time.
         <br>
         Sounds (too) good? Read the evaluation report to learn more about how well the programme works in achieveing this goal.
     </p>
@@ -49,7 +49,7 @@ Here, you can find a list of the projects I've worked on during that time.
     </div>
 
     <div class="col-xs-12 col-md-6">
-      <img class="img-responsive" src="/img/develoPPP.png" title="Front page develoPPP.de evaluation">
+      <img class="img-responsive" src="/img/develoPPP.PNG" title="Front page develoPPP.de evaluation">
     </div>
 
   </div>
@@ -117,7 +117,7 @@ Here, you can find a list of the projects I've worked on during that time.
     </div>
 
     <div class="col-xs-12 col-md-6">
-      <img class="img-responsive" src="Test Image3" title="Test Title3">
+      <img class="img-responsive" src="/img/rwanda.PNG" title="Front page Rwanda report">
     </div>
 
   </div>
