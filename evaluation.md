@@ -95,6 +95,25 @@ Here, you can find a list of the projects I've worked on during that time.
         
         More text goes here...
         
+        
+        <ul>
+       <li><strong>Evaluation report in English:</strong><br> Schwedersky, T., Noltze, M., <strong>Gaisbauer, F.</strong>, & Krapp, S. (2014). 
+            <i>Thirty Years of Rwandan-German Development  Cooperation in the Health Sector</i>. Bonn: German Institute for Development Evaluation (DEval). 
+            <a href="https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/Rwanda-Report_Vol-1_2014_en.pdf">[Find the report at Deval.org]</a>
+
+      </li>
+     <li><strong>Evaluation report in German:<br></strong> Schwedersky, T., Noltze, M., <strong>Gaisbauer, F.</strong>, & Krapp, S. (2014). <i>30 Jahre ruandisch-deutsche Entwicklungszusammenarbeit im Gesundheitswesen</i>. Bonn: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit (DEval).  
+<a href="https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/Ruanda_Evaluierungsbericht_2014_de.pdf">[Find the report at Deval.org]</a>
+</li>
+     <li><strong>Annexes of the report (English only):<br></strong> Schwedersky, T., Noltze, M., <strong>Gaisbauer, F.</strong>, & Krapp, S. (2014). <i>Thirty Years of Rwandan-German Development  Cooperation in the Health Sector. Annexes of the evaluation report</i>. Bonn: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit (DEval).  
+<a href="https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/Ruanda_Evaluierungsbericht_2014_de.pdf">[Find the report at Deval.org]</a>
+</li>
+
+
+    </ul>
+        
+        
+        
     </div>
 
     <div class="col-xs-12 col-md-6">
