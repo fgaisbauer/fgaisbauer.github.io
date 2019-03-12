@@ -47,7 +47,7 @@ Here, you can find a list of the projects I've worked on during that time.
     </div>
 
     <div class="col-xs-12 col-md-6">
-      <img class="img-responsive" src="Test Image" title="Test Title">
+      <img class="img-responsive" src="develoPPP.png" title="Front page develoPPP.de evaluation">
     </div>
 
   </div>
