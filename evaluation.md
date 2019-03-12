@@ -23,9 +23,15 @@ Here, you can find a list of the projects I've worked on during that time.
 
     <div class="col-xs-12 col-md-6">
     <p>
-        The <a href="https://www.developpp.de/en/">develoPPP.de</a> programme aims at bringing together experts on development from the public sector and entrepreneurs interested in developing countries from the private sector to create public-private partnerships (PPPs) that create both a social or ecological value added in the partner country and are economically viable at the same time.
-        <br>
-        Sounds (too) good? Read the evaluation report to learn more about how well the programme works in achieveing this goal.
+        The <a href="https://www.developpp.de/en/">develoPPP.de</a> programme brings together experts on development 
+        from the public sector and entrepreneurs interested in developing countries from the private sector. 
+        Together, they should team up to implement innovative public-private partnerships (PPPs) that offer impacts on development 
+        to the local population and also provide added value to the companies involved. 
+        
+    </p>
+        
+    <p>
+        Sounds (too) good? Read the evaluation report to learn more about how well the programme works in achieving this.
     </p>
     
     <br>
