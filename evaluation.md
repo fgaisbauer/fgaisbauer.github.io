@@ -23,9 +23,15 @@ Here, you can find a list of the projects I've worked on during that time.
 
     <div class="col-xs-12 col-md-6">
     <p>
-        The <a href="https://www.developpp.de/en/">develoPPP.de</a> programme aims at bringing together experts on development from the public sector and entrepreneurs interested in developing countries from the private sector to create public-private partnerships (PPPs) that create both a social or ecological value added in the partner country and are economically viable at the same time.
-        <br>
-        Sounds (too) good? Read the evaluation report to learn more about how well the programme works in achieveing this goal.
+        The <a href="https://www.developpp.de/en/">develoPPP.de</a> programme brings together experts on development 
+        from the public sector and entrepreneurs interested in investing in developing countries from the private sector. 
+        Together, they should team up to implement innovative public-private partnerships (PPPs) that offer impacts on development 
+        to the local population and also provide added value to the companies involved. 
+        
+    </p>
+        
+    <p>
+        Sounds (too) good? Read the evaluation report to learn more about how well the programme works in achieving this.
     </p>
     
     <br>
@@ -49,7 +55,7 @@ Here, you can find a list of the projects I've worked on during that time.
     </div>
 
     <div class="col-xs-12 col-md-6">
-      <img class="img-responsive" src="/img/develoPPP.PNG" title="Front page develoPPP.de evaluation">
+      <img class="img-responsive" src="/img/develoPPP.png" title="Front page develoPPP.de evaluation">
     </div>
 
   </div>
@@ -62,18 +68,46 @@ Here, you can find a list of the projects I've worked on during that time.
 <br>
 
 
-### Item 2
+### Evaluation of development workers as a personnel instrument
 
 <div class="content-wrap">
 
   <div class="row">
 
     <div class="col-xs-12 col-md-6">
-      <img class="img-responsive" src="Test Image2" title="Test Title">
+      <img class="img-responsive" src="/img/EH.PNG" title="Front page EH evaluation">
     </div>
 
     <div class="col-xs-12 col-md-6">
-      Text goes here.
+    
+    <p>
+      Development workers are experts who spent a limited amount of time on a not-for-profit basis 
+      in partner countries to support development processes. Their work should be grounded in expertise, 
+      mutual partnership, reflection, intercultural exchange, and solidarity-based commitment.
+    </p>
+    
+    <p>
+        In over 50 years, more than 28,000 development workers have been placed. 
+        What were the results of these efforts? 
+        Read the evalution report to find out more.
+    </p>
+    
+    <br>
+    
+    Related publiction:        
+      <ul>
+         <li><strong>Evaluation report (German only):</strong><br> 
+              Roxin, H., Schwedersky, T., Polak, J.T., Vorwerk, K., & <strong>Gaisbauer, F.</strong> (2015). 
+              <i>Entwicklungshelferinnen und Entwicklungshelfer. 
+              Ein Personalinstrument der deutschen Entwicklungszusammenarbeit</i>. <br>
+              Bonn: German Institute for Development Evaluation (DEval). 
+              <a href="http://www.deval.org/files/content/Dateien/Evaluierung/Berichte/2015_DEval_Evaluierung%20EntwicklungshelferInnen.pdf">
+              [Find the report at Deval.org]</a>
+
+         </li>
+    </ul>
+    
+    
     </div>
 
   </div>
@@ -92,18 +126,30 @@ Here, you can find a list of the projects I've worked on during that time.
   <div class="row">
 
     <div class="col-xs-12 col-md-6">
-        
+    
+    <p>
         Rwanda has earned a solid reputation for being a "top performer" on many development indicators, 
         but also still bears the legacy of the 1994 genocide.
+    </p>
+        
+
+    <p>
         
         Upon mutual agreement, Germany has terminated its engagement in the Rwandan health sector after 30 years. 
-        Read the evaluation report to learn more about the problems and progress of this cooperation and how sectoral 
-        bilateral development cooperation has changed over three decades.
+        What were the problems and the progress achieved during this time&#8212;and how has sectoral 
+        bilateral development cooperation changed over the last three decades?
+    <br>
+        Read the evaluation report to learn more.
+   </p>
+    
+        <br>
+
+    Related publications: 
         
       <ul>
          <li><strong>Evaluation report in English:</strong><br> 
               Schwedersky, T., Noltze, M., <strong>Gaisbauer, F.</strong>, & Krapp, S. (2014). 
-              <i>Thirty Years of Rwandan-German Development  Cooperation in the Health Sector</i>. 
+              <i>Thirty Years of Rwandan-German Development  Cooperation in the Health Sector</i>. <br>
               Bonn: German Institute for Development Evaluation (DEval). 
               <a href="https://www.deval.org/files/content/Dateien/Evaluierung/Berichte/Rwanda-Report_Vol-1_2014_en.pdf">
               [Find the report at Deval.org]</a>

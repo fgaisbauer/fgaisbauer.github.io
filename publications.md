@@ -10,7 +10,7 @@ permalink: /publications/
 <br>
 
 #### Judgment and Decision Making
-- Neth, H., **Gaisbauer, F.**, Gradwohl, N., & Gaissmaier, W. (2018). *riskyr: A toolbox for rendering risk literacy more transparent.* Social Psychology and Decision Sciences, University of Konstanz, Germany. Computer software (R package version 0.2.0, Dec. 20, 2018). Retrieved from [https://CRAN.r-project.org/package=riskyr](https://CRAN.r-project.org/package=riskyr).
+- Neth, H., **Gaisbauer, F.**, Gradwohl, N., & Gaissmaier, W. (2018). *riskyr: A toolbox for rendering risk literacy more transparent.* Social Psychology and Decision Sciences, University of Konstanz, Germany. Computer software (R package version 0.2.0, Dec. 20, 2018). Get it at [https://CRAN.r-project.org/package=riskyr](https://CRAN.r-project.org/package=riskyr).
 
 
 <br>
@@ -18,9 +18,9 @@ permalink: /publications/
 <br>
 
 #### Evaluation
-- Vorwerk, K., Hartmann, C., **Gaisbauer, F.**, & Krapp, S. (2017). Deutsche Entwicklungszusammenarbeit unter Einbindung der Privatwirtschaft: Evaluierung des develoPPP.de-Programms [German development cooperation incorporting the private sector: Evaluation of the develoPPP.de programm]. *Zeitschrift für Evaluation, 16*(1), 160-172.
+- Vorwerk, K., Hartmann, C., **Gaisbauer, F.**, & Krapp, S. (2017). Deutsche Entwicklungszusammenarbeit unter Einbindung der Privatwirtschaft: Evaluierung des develoPPP.de-Programms [German development cooperation incorporating the private sector: Evaluation of the develoPPP.de programm]. *Zeitschrift für Evaluation, 16*(1), 160-172.
 - Hartmann, C., **Gaisbauer, F.**, & Vorwerk, K. (2017). *Evaluation of the develoPPP.de programme*. Bonn: German Institute for Development Evaluation (DEval).
-- Roxin, H., Schwerdersky, T., Polak, T., Vorwerk, K., & **Gaisbauer, F.** (2015). *Entwicklungshelferinnen und Entwicklungshelfer. Ein Personalinstrument der deutschen Entwicklungszusammenarbeit.* Bonn: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit (DEval).
+- Roxin, H., Schwerdersky, T., Polak, T., Vorwerk, K., & **Gaisbauer, F.** (2015). *Entwicklungshelferinnen und Entwicklungshelfer. Ein Personalinstrument der deutschen Entwicklungszusammenarbeit* [Development workers. A personnel instrument in German development cooperation]. Bonn: German Institute for Development Evaluation (DEval).
 - **Gaisbauer, F.**, & Schwedersky, T. (2015). An effective mix of instruments in health cooperation? *DEval Policy Brief 2/2015*. Bonn: German Institute for Development Evaluation (DEval).
 - Noltze, M., **Gaisbauer, F.**, Schwedersky, T., & Krapp, S. (2014). Contribution analysis as an evaluation strategy in the context of a sector-wide approach: Performance-based health financing in Rwanda. *African Evaluation Journal, 2*(1), 1-8.
 - **Gaisbauer, F.**, Noltze, M., Schwedersky, T., & Krapp, S. (2014). Dreißig Jahre ruandisch-deutsche Entwicklungszusammenarbeit im Gesundheitssektor: Herausforderungen einer komplexen Evaluierung [Thirty years of Rwandan-German development cooperation in the health sector: Challenges of a complex evaluation]. *Zeitschrift für Evaluation, 17*(2), 332-347.
