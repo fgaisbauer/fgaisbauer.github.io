@@ -24,7 +24,7 @@ Here, you can find a list of the projects I've worked on during that time.
     <div class="col-xs-12 col-md-6">
     <p>
         The <a href="https://www.developpp.de/en/">develoPPP.de</a> programme brings together experts on development 
-        from the public sector and entrepreneurs interested in developing countries from the private sector. 
+        from the public sector and entrepreneurs interested in investing in developing countries from the private sector. 
         Together, they should team up to implement innovative public-private partnerships (PPPs) that offer impacts on development 
         to the local population and also provide added value to the companies involved. 
         
@@ -68,7 +68,7 @@ Here, you can find a list of the projects I've worked on during that time.
 <br>
 
 
-### Evaluation of development workers 
+### Evaluation of development workers as a personnel instrument
 
 <div class="content-wrap">
 
@@ -83,7 +83,7 @@ Here, you can find a list of the projects I've worked on during that time.
     <p>
       Development workers are experts who spent a limited amount of time on a not-for-profit basis 
       in partner countries to support development processes. Their work should be grounded in expertise, 
-      mutual partnership, reflection, intercultural exchange and solidarity-based commitment.
+      mutual partnership, reflection, intercultural exchange, and solidarity-based commitment.
     </p>
     
     <p>
@@ -136,10 +136,11 @@ Here, you can find a list of the projects I've worked on during that time.
     <p>
         
         Upon mutual agreement, Germany has terminated its engagement in the Rwandan health sector after 30 years. 
-        Read the evaluation report to learn more about the problems and progress of this cooperation&#8212;and how sectoral 
-        bilateral development cooperation has changed over three decades.
-       
-    </p>
+        What were the problems and the progress achieved during this time&#8212;and how has sectoral 
+        bilateral development cooperation changed over the last three decades?
+    <br>
+        Read the evaluation report to learn more.
+   </p>
     
         <br>
 
