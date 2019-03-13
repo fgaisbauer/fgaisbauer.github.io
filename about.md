@@ -41,7 +41,6 @@ permalink: /about/
 	</tbody>
 </table>
 
-<hr />
 
 <br>
 <hr>
