@@ -76,9 +76,6 @@ permalink: /about/
 
 ## Scholarships
 
-
-<h3>Scholarships</h3>
-
 <table border="0" cellpadding="2" cellspacing="2" style="width:750px">
 	<tbody>
 		<tr>
