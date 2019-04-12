@@ -9,7 +9,7 @@ permalink: /research/
 
 Currently still under construction, more coming soon.
 
-In our life, it's very often not a single decision we make that matters, but rather a sequence of decisions. How we should and actually end up distributing our choices between the different options in such situations is an intruiging problem. Since 2016, I am a Ph.D. candidate at the [Graduate School of Decision Sciences (GSDS)](https://www.gsds.uni-konstanz.de/) at the  [University of Konstanz](https://www.uni-konstanz.de/en/) and research such distributed choice problems. 
+It's very often not a single decision we make that matters, but a sequence of decisions. How we should and actually end up distributing our choices between different options is an intruiging problem. Since 2016, I am a Ph.D. candidate at the [Graduate School of Decision Sciences (GSDS)](https://www.gsds.uni-konstanz.de/) at the  [University of Konstanz](https://www.uni-konstanz.de/en/) and research such distributed choice problems. 
 
 Here, you can find an overview of my Ph.D. projects.
 
